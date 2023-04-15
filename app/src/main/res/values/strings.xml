@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">gorjeta</string>
+    <string name="valor">Valor da Conta:</string>
+    <string name="tarifa">Valor Gorjeta:</string>
+    <string name="total">Total Conta:</string>
+    <string name="titulo">Calculadora de Gorjeta</string>
+
+</resources>
